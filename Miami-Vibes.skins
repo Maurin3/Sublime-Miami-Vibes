@@ -1,0 +1,10 @@
+{
+  "Miami-Vibes":
+  {
+    "Preferences":
+    {
+      "theme": "Miami-Vibes.sublime-theme",
+      "color_scheme": "Packages/Sublime-Miami-Vibes/Miami-Vibes.sublime-color-scheme",
+    }
+  }
+}
