@@ -1141,8 +1141,8 @@
      {
         "class": "icon_regex",
         "parents": [{"class": "icon_button_control", "attributes": ["selected"]}],
-        "layer0.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
-        "layer1.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" }
+        "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
+        "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" }
      },
   
       // Preserve case sensitive
@@ -1150,9 +1150,9 @@
     {
       "class": "icon_case",
       "layer0.texture": "Sublime-Miami-Vibes/icons/find_case.png",
-      "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
+      "layer0.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
       "layer1.texture": "Sublime-Miami-Vibes/icons/find_case.png",
-      "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
+      "layer1.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
       "layer1.tint": [196, 36, 106],
       "layer2.texture": "Sublime-Miami-Vibes/icons/find_case.png",
       "layer2.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
@@ -1168,8 +1168,8 @@
      {
         "class": "icon_case",
         "parents": [{"class": "icon_button_control", "attributes": ["selected"]}],
-        "layer0.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
-        "layer1.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" }
+        "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
+        "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" }
      },
   
       // Wholeword
@@ -1177,9 +1177,9 @@
     {
       "class": "icon_whole_word",
       "layer0.texture": "Sublime-Miami-Vibes/icons/find_word.png",
-      "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
+      "layer0.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
       "layer1.texture": "Sublime-Miami-Vibes/icons/find_word.png",
-      "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
+      "layer1.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
       "layer1.tint": [196, 36, 106],
       "layer2.texture": "Sublime-Miami-Vibes/icons/find_word.png",
       "layer2.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
@@ -1196,8 +1196,8 @@
      {
         "class": "icon_whole_word",
         "parents": [{"class": "icon_button_control", "attributes": ["selected"]}],
-        "layer0.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
-        "layer1.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" }
+        "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
+        "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" }
      },
   
       // Wrap
@@ -1205,9 +1205,9 @@
     {
       "class": "icon_wrap",
       "layer0.texture": "Sublime-Miami-Vibes/icons/find_wrap.png",
-      "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
+      "layer0.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
       "layer1.texture": "Sublime-Miami-Vibes/icons/find_wrap.png",
-      "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
+      "layer1.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
       "layer1.tint": [196, 36, 106],
       "layer2.texture": "Sublime-Miami-Vibes/icons/find_wrap.png",
       "layer2.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
@@ -1223,8 +1223,8 @@
      {
         "class": "icon_wrap",
         "parents": [{"class": "icon_button_control", "attributes": ["selected"]}],
-        "layer0.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
-        "layer1.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" }
+        "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
+        "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" }
      },
   
       // In selection
@@ -1232,9 +1232,9 @@
     {
       "class": "icon_in_selection",
       "layer0.texture": "Sublime-Miami-Vibes/icons/find_selection.png",
-      "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
+      "layer0.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
       "layer1.texture": "Sublime-Miami-Vibes/icons/find_selection.png",
-      "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
+      "layer1.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
       "layer1.tint": [196, 36, 106],
       "layer2.texture": "Sublime-Miami-Vibes/icons/find_selection.png",
       "layer2.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
@@ -1251,8 +1251,8 @@
      {
         "class": "icon_in_selection",
         "parents": [{"class": "icon_button_control", "attributes": ["selected"]}],
-        "layer0.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
-        "layer1.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" }
+        "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
+        "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" }
      },
   
       // Highlight Result
@@ -1260,9 +1260,9 @@
     {
       "class": "icon_highlight",
       "layer0.texture": "Sublime-Miami-Vibes/icons/find_highlight.png",
-      "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
+      "layer0.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
       "layer1.texture": "Sublime-Miami-Vibes/icons/find_highlight.png",
-      "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
+      "layer1.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
       "layer1.tint": [196, 36, 106],
       "layer2.texture": "Sublime-Miami-Vibes/icons/find_highlight.png",
       "layer2.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
@@ -1280,8 +1280,8 @@
      {
         "class": "icon_highlight",
         "parents": [{"class": "icon_button_control", "attributes": ["selected"]}],
-        "layer0.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
-        "layer1.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" }
+        "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
+        "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" }
      },
   
       // Preserve Case
@@ -1289,9 +1289,9 @@
     {
       "class": "icon_preserve_case",
       "layer0.texture": "Sublime-Miami-Vibes/icons/replace_preserve_case.png",
-      "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
+      "layer0.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
       "layer1.texture": "Sublime-Miami-Vibes/icons/replace_preserve_case.png",
-      "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
+      "layer1.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
       "layer2.texture": "Sublime-Miami-Vibes/icons/replace_preserve_case.png",
       "layer2.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
       "layer2.tint": [107, 114, 250],
@@ -1307,18 +1307,18 @@
      {
         "class": "icon_preserve_case",
         "parents": [{"class": "icon_button_control", "attributes": ["selected"]}],
-        "layer0.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
-        "layer1.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" }
+        "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
+        "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" }
      },
   
       // Show context
   
     {
       "class": "icon_context",
-      "layer0.texture": "Sublime-Miami-Vibes/icons/find_context--hover.png",
-      "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
+      "layer0.texture": "Sublime-Miami-Vibes/icons/find_context.png",
+      "layer0.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
       "layer1.texture": "Sublime-Miami-Vibes/icons/find_context.png",
-      "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
+      "layer1.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
       "layer2.texture": "Sublime-Miami-Vibes/icons/find_context.png",
       "layer2.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
       "layer2.tint": [107, 114, 250],
@@ -1334,8 +1334,8 @@
      {
         "class": "icon_context",
         "parents": [{"class": "icon_button_control", "attributes": ["selected"]}],
-        "layer0.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
-        "layer1.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" }
+        "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
+        "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" }
      },
   
       // Use buffer
@@ -1343,9 +1343,9 @@
     {
       "class": "icon_use_buffer",
       "layer0.texture": "Sublime-Miami-Vibes/icons/use_buffer.png",
-      "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
+      "layer0.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
       "layer1.texture": "Sublime-Miami-Vibes/icons/use_buffer.png",
-      "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
+      "layer1.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
       "layer2.texture": "Sublime-Miami-Vibes/icons/use_buffer.png",
       "layer2.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
       "layer2.tint": [107, 114, 250],
@@ -1360,8 +1360,8 @@
      {
         "class": "icon_use_buffer",
         "parents": [{"class": "icon_button_control", "attributes": ["selected"]}],
-        "layer0.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
-        "layer1.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" }
+        "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
+        "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" }
      },
   
       // Reverse direction
@@ -1369,9 +1369,9 @@
     {
       "class": "icon_reverse",
       "layer0.texture": "Sublime-Miami-Vibes/icons/find_reverse.png",
-      "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
+      "layer0.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
       "layer1.texture": "Sublime-Miami-Vibes/icons/find_reverse.png",
-      "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
+      "layer1.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
       "layer2.texture": "Sublime-Miami-Vibes/icons/find_reverse.png",
       "layer2.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
       "layer2.tint": [107, 114, 250],
@@ -1387,8 +1387,8 @@
     {
       "class": "icon_reverse",
       "parents": [{"class": "icon_button_control", "attributes": ["selected"]}],
-      "layer0.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" },
-      "layer1.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" }
+      "layer0.opacity": { "target": 0.0, "speed": 6.0, "interpolation": "smoothstep" },
+      "layer1.opacity": { "target": 1.0, "speed": 6.0, "interpolation": "smoothstep" }
     },
   
 ]
