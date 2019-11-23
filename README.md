@@ -1,4 +1,4 @@
-# img src="https://raw.githubusercontent.com/Maurin3/Sublime-Miami-Vibes/master/icons/icon.png" width="30" height="30"> Miami Vibes
+# <img src="https://raw.githubusercontent.com/Maurin3/Sublime-Miami-Vibes/master/icons/icon.png" width="30" height="30"> Miami Vibes
 
 ![preview](https://raw.githubusercontent.com/Maurin3/Sublime-Miami-Vibes/master/preview.png)
 
